@@ -1,10 +1,10 @@
 class QuackBehavior {
     quack() {
-        console.log('realizar quack');
+        console.log('Quack');
     }
 
     noQuack() {
-        console.log('silencio');
+        console.log('Silencio');
     }
 }
 

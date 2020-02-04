@@ -1,4 +1,4 @@
-const Duck = require('./pato');
+const Duck = require('../Duck');
 
 class Patos extends Duck {
     mallardDuck() {
